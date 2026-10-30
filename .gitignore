@@ -1,0 +1,11 @@
+1.Analyzing_the_data.py
+2.Creating_a_testset.py
+3.Visualizing_the_data.py
+4.Further_Pre-Processing_&_Handling_missing_data.py
+5.Handling_Categorical_Attributes.py
+6.Feature_Scaling.py
+7.Creating_Pipelines.py
+8.main.py
+pipeline.pkl
+.vscode/
+model.pkl
